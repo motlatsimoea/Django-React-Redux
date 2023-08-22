@@ -54,3 +54,9 @@
 - Accessing global states from different components and dispatching actions were learned using `useEffect()` and `useDispatch()`.
 
 - I learned how to combine Django backend and React frontend after building both projects separately.
+- Research, research, research. The most important thing is learning how to research for solutions. Most issues you will have face
+  have been faced by someone else. It's much more effecient to try to find this solution, undertand it, then apply it to your project
+  than it is to start from scratch.
+
+- Be a problem solver. Building web projects, like in most fields, is about being a problem solver. Solutions do not always have to be 
+  'elegant'. They just need to work and be sustainable. You need to love solving problems in the chosen field.
