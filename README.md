@@ -19,7 +19,7 @@
 - Exceptions exist, such as when state changes are made during asynchronous calls. These calls are executed in the reducer's actions, resulting in data retrieved from an API, referred to as a payload.
 
 - Multiple reducers can be created and placed in a store, providing global access to states and respective actions in the project.
-- 
+
 - I learned that using redux toolkit, the process of creating reducers could be made much easier, and thus in the process of exploring that avenue.
 
 ## Django/Django Rest Framework
@@ -54,6 +54,7 @@
 - Accessing global states from different components and dispatching actions were learned using `useEffect()` and `useDispatch()`.
 
 - I learned how to combine Django backend and React frontend after building both projects separately.
+  
 - Research, research, research. The most important thing is learning how to research for solutions. Most issues you will have face
   have been faced by someone else. It's much more effecient to try to find this solution, undertand it, then apply it to your project
   than it is to start from scratch.
